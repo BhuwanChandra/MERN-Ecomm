@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Permanent+Marker');
+
 body{
 	text-align: center;
 	font-size: 5vh;
@@ -5,11 +7,10 @@ body{
 }
 table{
 	margin: auto;
-	font-size: inherit;
 }
 td{
-	width:80px;
-	height: 80px;
+	width:100px;
+	height: 100px;
 }
 tr:nth-of-type(1) td{
 	border-bottom: 2px solid black;
@@ -29,6 +30,8 @@ tr td:nth-of-type(3){
 #reset{
 	padding:10px;
 	border: none;
+	border-radius: 25px;
+	outline: none;
 	font-weight: 600;
 	float: left;
 }
@@ -37,10 +40,17 @@ tr td:nth-of-type(3){
 	border: none;
 	width: inherit;
 	height: inherit;
-	padding:5vh;
+	padding-bottom: 15px;
+	text-align: center;
+	background-color: transparent;
+	outline: none;
+	font-family: 'Permanent Marker', cursive;
+	font-weight: 400;
+	font-size: 2rem;
 }
 #plyr1,#plyr2{
 	border: 1px solid black;
+	border-radius: 40px;
 	background:#dddddd;
 	padding: 15px;
 	margin: 10px;
