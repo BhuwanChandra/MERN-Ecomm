@@ -1,6 +1,9 @@
 # ProShop eCommerce Platform
 
 > eCommerce platform built with the MERN stack & Redux.
+
+### Live Demo: https://e-comm-site.herokuapp.com/
+
 ## Features
 
 - Full featured shopping cart
