@@ -1,4 +1,4 @@
-# ProShop eCommerce Platform
+# eCommerce Platform to sell products online
 
 > eCommerce platform built with the MERN stack & Redux.
 
@@ -8,17 +8,16 @@
 
 - Full featured shopping cart
 - Product reviews and ratings
-- Top products carousel
 - Product pagination
 - Product search feature
 - User profile with orders
+- Role-based JWT Authentication for users and admins.
 - Admin product management
 - Admin user management
 - Admin Order details page
 - Mark orders as delivered option
 - Checkout process (shipping, payment method, etc)
 - PayPal integration for payments
-- Database seeder (products & users)
 
 ## Usage
 
